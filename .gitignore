@@ -14,6 +14,15 @@ DatingApp.API.Tests/bin
 /DatingApp.API.Tests/obj
 /DatingApp.API.Tests/bin
 
+# Local DBs
+DatingApp.API/datingapp.db
+/DatingApp.API/datingapp.db
+DatingApp.API/datingapp.db-shm
+/DatingApp.API/datingapp.db-shm
+DatingApp.API/datingapp.db-wal
+/DatingApp.API/datingapp.db-wal
+
+
 # IDEs and editors
 /.idea
 .project
