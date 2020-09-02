@@ -22,6 +22,9 @@ DatingApp.API/datingapp.db-shm
 DatingApp.API/datingapp.db-wal
 /DatingApp.API/datingapp.db-wal
 
+# Migrations
+DatingApp.API/Migrations/
+/DatingApp.api/Migrations/
 
 # IDEs and editors
 /.idea
@@ -49,7 +52,7 @@ DatingApp.API/datingapp.db-wal
 /vs
 
 # DatingApp-SPA IGNORE LIST
-# DatingApp.API/wwwroot
+#DatingApp.API/wwwroot
 
 # compiled output
 DatingApp-SPA/dist
@@ -95,5 +98,3 @@ DatingApp-SPA/typings
 # System Files
 DatingApp-SPA/.DS_Store
 DatingApp-SPA/Thumbs.db
-
-#test
