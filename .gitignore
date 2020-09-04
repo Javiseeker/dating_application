@@ -15,16 +15,11 @@ DatingApp.API.Tests/bin
 /DatingApp.API.Tests/bin
 
 # Local DBs
-DatingApp.API/datingapp.db
-/DatingApp.API/datingapp.db
-DatingApp.API/datingapp.db-shm
-/DatingApp.API/datingapp.db-shm
-DatingApp.API/datingapp.db-wal
-/DatingApp.API/datingapp.db-wal
+*.db
 
 # Migrations
-DatingApp.API/Migrations/
-/DatingApp.api/Migrations/
+# DatingApp.API/Migrations/
+# /DatingApp.api/Migrations/
 
 # IDEs and editors
 /.idea
