@@ -13,7 +13,7 @@ DatingApp.API.Tests/obj
 DatingApp.API.Tests/bin
 /DatingApp.API.Tests/obj
 /DatingApp.API.Tests/bin
-
+appsettings.json
 # Local DBs
 *.db
 
